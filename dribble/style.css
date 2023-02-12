@@ -376,6 +376,7 @@ input:focus {
 
 .card-hover-tag {
   font-weight: 500;
+  color: #fff;
 }
 
 .card-hover-icons {
